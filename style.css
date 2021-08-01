@@ -270,3 +270,32 @@ nav {
 .col2 a {
     text-decoration: none;
 }
+
+footer {
+    background-color: #1e2223;
+    padding-top: 8%;
+    padding-left: 5%;
+    display: flex;
+    height: 100vh;
+    float: right;
+    width: 80%;
+}
+
+.footer1,
+.footer2,
+.footer3 {
+    color: white;
+    padding-right: 5%;
+    width: 20%;
+}
+
+.footer3 ul li {
+    list-style: none;
+}
+
+.footer3 ul li a {
+    text-decoration: none;
+    color: cornflowerblue;
+    font-size: 20px;
+    line-height: 30px;
+}
